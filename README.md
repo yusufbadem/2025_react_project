@@ -1,5 +1,5 @@
-### if you want to See my code live please click the link : https://2025-react-project.vercel.app/
-### register işlemi yaparak basit veya user :deneme@gmail.com password: 1234567./  şeklinde giriş yaparak product sayfasını görebilirsiniz
+### If you want to See my code live please click the link : https://2025-react-project.vercel.app/
+### You can register or user :deneme@gmail.com password: 1234567./   you can enter the info that given and can see the product page
 
 # Getting Started with Create React App
 
